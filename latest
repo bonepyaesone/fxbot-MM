@@ -1,3 +1,6 @@
+HTTP/1.1 200 OK
+Content-Type: application/vnd.api+json
+
 {
   "text":{
     "USD":"1,375.0",
